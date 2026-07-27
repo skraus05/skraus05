@@ -1,9 +1,9 @@
 <h1 align="center">
-Hello World 👋 I'm Samuel Kraus!
+Hi! I'm Sam. I have a background in regulatory compliance, client relationship management, and software development. I enjoy solving complex problems, improving processes, and bridging the gap between technical teams and business stakeholders.
 </h1>
 
 <h2 align="center">
-💻 🚀 Fullstack Software Engineer & Anti-Money Laundering Analyst
+💻 🚀 Client-focused Compliance Professional | Software Development Background
 </h2>
 
 <h4>
@@ -30,11 +30,14 @@ Hello World 👋 I'm Samuel Kraus!
 ![Webpack](https://img.shields.io/badge/Tools-Webpack-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=%238DD6F9)
 ![NodeJS](https://img.shields.io/badge/Tools-Node.js-6DA55F?style=plastic&logo=node.js&logoColor=6DA55F)
 
-#### 🔭 Currently learning:
+#### 🔭 Areas of Interest:
 
-- TypeScript
-- AWS
-- Algorithms and Data Structures
+- Client Success
+- Product Development
+- Project Management
+- Process Improvement
+- Software Development
+- AI & Automation
 
 #### 📈 Check out my stats:
 
